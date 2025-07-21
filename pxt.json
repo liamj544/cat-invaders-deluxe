@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "game-building-session-tutorials-2024": "github:Code-Ninjas-Home-Office/game-building-session-tutorials-2024"
+        "game-building-session-tutorials-2024": "github:Code-Ninjas-Home-Office/game-building-session-tutorials-2024",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3"
     },
     "files": [
         "main.blocks",
