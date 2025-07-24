@@ -27,7 +27,7 @@ let enemySprite: Sprite = null
 let chocolate: Sprite = null
 let cat: Sprite = null
 game.splash("Liam Jackson Presents Cat Invaders Advisory This Game is A Work Of Ficton Do NOT IMITATE THE GAME cheat code move a and d to move and space to shoot do it fast")
-scene.setBackgroundColor(4)
+scene.setBackgroundColor(13)
 cat = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
